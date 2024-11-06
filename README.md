@@ -31,3 +31,7 @@ Building this game taught me essential skills in VR development and game design.
     - Unity - for VR game development.
     - C# - for scripting game mechanics.
     - Oculus SDK - to integrate Oculus controllers and VR capabilities.
+
+🎥 Demo Video
+
+You can watch the gameplay demo video here "https://www.youtube.com/watch?v=JloE7pwZRGY&ab_channel=Mandeu"
