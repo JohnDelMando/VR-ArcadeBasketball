@@ -30,9 +30,9 @@ Building this game taught me essential skills in VR development and game design.
 
 ## 🛠️ **Technologies Used**
 
-* **Unity** : for VR game development.
-* **C#** : for scripting game mechanics.
-* **Oculus SDK** : to integrate Oculus controllers and VR capabilities.
+* **Unity**: for VR game development.
+* **C#**: for scripting game mechanics.
+* **Oculus SDK**: to integrate Oculus controllers and VR capabilities.
 
 ## 🎥 **Demo Video Link**
 
