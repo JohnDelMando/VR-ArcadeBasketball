@@ -1,5 +1,7 @@
 # **VR Arcade Basketball**
 
+A virtual reality arcade basketball game where players pick up and shoot hoops using Oculus controllers or hand motion controls. Score as many baskets as you can before the timer runs out!
+
 ## 🎯 **Gameplay**
 
 * **Classic Arcade Feel**: Inspired by real-life arcade basketball games but with a VR twist.
@@ -8,7 +10,7 @@
 * **Score to extend time**: Every shot that makes it into the basket adds extra time to the clock.
 * **Beat the timer**: It’s game over when the time reaches zero – so keep shooting and scoring!
 
-## ✨ **Features**
+## 🎮 **Features**
 
 * **Realistic Physics**: Smooth basketball physics enhance the VR experience.
 * **Immersive Sound Design**: Includes background music and sound effects to recreate the arcade atmosphere.
